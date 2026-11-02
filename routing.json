@@ -10,8 +10,8 @@
   "DomesticDNSType": "DoH",
   "DomesticDNSDomain": "https://77.88.8.8/dns-query",
   "DomesticDNSIP": "77.88.8.8",
-  "Geoipurl": "https://raw.githubusercontent.com/artemagius-ux/arte-geo/main/v8/geoip.dat",
-  "Geositeurl": "https://raw.githubusercontent.com/artemagius-ux/arte-geo/main/v8/geosite.dat",
+  "Geoipurl": "https://raw.githubusercontent.com/artemagius-ux/arte-geo/main/v9/geoip.dat",
+  "Geositeurl": "https://raw.githubusercontent.com/artemagius-ux/arte-geo/main/v9/geosite.dat",
   "LastUpdated": "1793542870",
   "DnsHosts": {
     "lkfl2.nalog.ru": "213.24.64.175",
